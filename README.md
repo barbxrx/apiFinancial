@@ -1,4 +1,4 @@
-## FinAPI - Financeira
+## API Financeira
 
 ### Requisitos 
 
